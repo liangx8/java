@@ -1,0 +1,8 @@
+-- 数据定义
+-- database definition version 1
+-- 账户记录
+create table if not exists ex_expense(id integer primary key autoincrement,issue_date integer,type_id integer,account_id integer,remark text)
+-- 操作部分
+create table if not exists ex_type(id integer primary key autoincrement,type_name1 text,type_name2 text)
+-- 帐号
+create table if not exists ex_account(id integer primary key autoincrement,account_abbr text,account_name text)

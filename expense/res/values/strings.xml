@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ExpenseActivity!</string>
+    <string name="app_name">Expense</string>
+    <string name="create_new_account">New Account</string>
+    <string name="recent_expense">Recent</string>
+    <string name="new_expense">New Expense</string>
+    <string name="default_account">Default</string>
+    <string name="change_account">Change Account</string>
+    <string name="quit">Quit</string>
+    <string name="empty_expense">Empty Record</string>
+    <string name="pick_expense_type">Pick a expense type</string>
+    <string name="input_amount">Please input amount</string>
+    <string name="time_picker_title">Expense time</string>
+    <string name="date_title">Date</string>
+    <string name="hour_title">Hour</string>
+    <string name="minute_title">Minute</string>
+
+</resources>

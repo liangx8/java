@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">打招呼</string>
+    <string name="app_name">小算盘</string>
+    <string name="create_new_account">新建帐套</string>
+    <string name="recent_expense">最近消费</string>
+    <string name="new_expense">记账</string>
+    <string name="default_account">默认帐套</string>
+    <string name="change_account">修改帐套</string>
+    <string name="quit">退出</string>
+    <string name="empty_expense">无记账记录</string>
+    <string name="pick_expense_type">选择消费类型</string>
+    <string name="input_amount">你花了多少钱?</string>
+    <string name="time_picker_title">选择费用时间</string>
+
+</resources>

@@ -1,0 +1,6 @@
+insert into ex_type (type_name1,type_name2) values('餐费','早餐')
+insert into ex_type (type_name1,type_name2) values('餐费','午餐')
+insert into ex_type (type_name1,type_name2) values('餐费','晚餐')
+insert into ex_type (type_name1,type_name2) values('出行交通','公交')
+insert into ex_type (type_name1,type_name2) values('出行交通','自驾交通')
+insert into ex_type (type_name1,type_name2) values('出行交通','加油')
